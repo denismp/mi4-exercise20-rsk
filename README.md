@@ -108,5 +108,8 @@ Create a zip file (e.g. your-name-rsk-smart-contracts-exercise.zip) containing s
 
 Submit your zip file as homework at the course platform.
 
+NOTES:
+1. Use truffle development instead of truffle console.
+
 
 
